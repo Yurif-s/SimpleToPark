@@ -1,0 +1,17 @@
+C:\Users\Aline Moura\Udemy\SimpleToPark\bin\Debug\net8.0-windows\SimpleToPark.exe
+C:\Users\Aline Moura\Udemy\SimpleToPark\bin\Debug\net8.0-windows\SimpleToPark.deps.json
+C:\Users\Aline Moura\Udemy\SimpleToPark\bin\Debug\net8.0-windows\SimpleToPark.runtimeconfig.json
+C:\Users\Aline Moura\Udemy\SimpleToPark\bin\Debug\net8.0-windows\SimpleToPark.dll
+C:\Users\Aline Moura\Udemy\SimpleToPark\bin\Debug\net8.0-windows\SimpleToPark.pdb
+C:\Users\Aline Moura\Udemy\SimpleToPark\obj\Debug\net8.0-windows\SimpleToPark.FormPrincipal.resources
+C:\Users\Aline Moura\Udemy\SimpleToPark\obj\Debug\net8.0-windows\SimpleToPark.csproj.GenerateResource.cache
+C:\Users\Aline Moura\Udemy\SimpleToPark\obj\Debug\net8.0-windows\SimpleToPark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aline Moura\Udemy\SimpleToPark\obj\Debug\net8.0-windows\SimpleToPark.AssemblyInfoInputs.cache
+C:\Users\Aline Moura\Udemy\SimpleToPark\obj\Debug\net8.0-windows\SimpleToPark.AssemblyInfo.cs
+C:\Users\Aline Moura\Udemy\SimpleToPark\obj\Debug\net8.0-windows\SimpleToPark.csproj.CoreCompileInputs.cache
+C:\Users\Aline Moura\Udemy\SimpleToPark\obj\Debug\net8.0-windows\SimpleToPark.dll
+C:\Users\Aline Moura\Udemy\SimpleToPark\obj\Debug\net8.0-windows\refint\SimpleToPark.dll
+C:\Users\Aline Moura\Udemy\SimpleToPark\obj\Debug\net8.0-windows\SimpleToPark.pdb
+C:\Users\Aline Moura\Udemy\SimpleToPark\obj\Debug\net8.0-windows\SimpleToPark.genruntimeconfig.cache
+C:\Users\Aline Moura\Udemy\SimpleToPark\obj\Debug\net8.0-windows\ref\SimpleToPark.dll
+C:\Users\Aline Moura\Udemy\SimpleToPark\obj\Debug\net8.0-windows\SimpleToPark.csproj.ResolveComReference.cache
