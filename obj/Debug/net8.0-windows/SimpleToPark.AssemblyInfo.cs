@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleToPark")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+350cc3645c6a68626c065efa2ec7a2373a54c724")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleToPark")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleToPark")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

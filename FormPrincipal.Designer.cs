@@ -101,6 +101,7 @@
             dataGridViewCarrosEstacionados.RowHeadersVisible = false;
             dataGridViewCarrosEstacionados.Size = new Size(648, 361);
             dataGridViewCarrosEstacionados.TabIndex = 1;
+            dataGridViewCarrosEstacionados.CellDoubleClick += dataGridViewCarrosEstacionados_CellDoubleClick;
             // 
             // tableLayoutPanel3
             // 
@@ -141,6 +142,7 @@
             buttonConfigurar.TabIndex = 1;
             buttonConfigurar.Text = "Configurar";
             buttonConfigurar.UseVisualStyleBackColor = false;
+            buttonConfigurar.Click += buttonConfigurar_Click;
             // 
             // labelValorHora
             // 
